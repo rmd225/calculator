@@ -19,7 +19,7 @@
   }
   
   .textview {
-    width: 190px;
+    width: 200px;
     margin: 5px;
     margin:6px;
     font-size: 25px;
@@ -28,8 +28,8 @@
   
   .main {
     position: absolute;
-    top: 250px;
-    left: 645px;
+    top: 200px;
+    left: 630px;
     background: rgb(15, 56, 181);
   }
   
